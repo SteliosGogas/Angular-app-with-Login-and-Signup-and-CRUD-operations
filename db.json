@@ -1,0 +1,63 @@
+{
+  "productList": [
+    {
+      "productName": "Pineapple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 250,
+      "comment": "This is not fresh",
+      "date": "2022-04-18T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "This a new apple",
+      "date": "2022-04-20T21:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 50,
+      "comment": "tomato",
+      "date": "2022-05-02T21:00:00.000Z",
+      "id": 8
+    }
+  ],
+  "loginUsers": [
+    {
+      "fullName": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "mobile": 6981855654456,
+      "id": 1
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Stelios gkogkas",
+      "email": "steliosg22@gmail.com",
+      "password": "abc-123",
+      "mobile": 6981855654456,
+      "id": 2
+    },
+    {
+      "fullName": "Stelios gkogkas",
+      "email": "steliosg22@gmail.com",
+      "password": "1234",
+      "mobile": "654464",
+      "id": 4
+    },
+    {
+      "fullName": "stelios gogas",
+      "email": "stelios@gmail.com",
+      "password": "1234",
+      "mobile": "45445444",
+      "id": 5
+    }
+  ]
+}
